@@ -1,3 +1,19 @@
+#Adding config.py file
+config.py
+
+#Adding additional files
+API_practice.ipynb
+API_practice.ipynb_checkpoints
+random_numbers.ipynb
+random_numbers.ipynb_checkpoints
+NYT_test.ipynb
+NYT_test.ipynb_checkpoints
+Gmaps_practice.ipynb
+Gmaps_practice.ipynb_checkpoints
+GoogleMap_Test.ipynb
+GoogleMap_Test.ipynb_checkpoints
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
